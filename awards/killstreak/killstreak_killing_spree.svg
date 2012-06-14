@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="template_multikill.svg">
+   sodipodi:docname="killstreak_killing_spree.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,17 +135,6 @@
        sodipodi:ry="196.97975"
        d="m 397.24249,194.93903 c 0,108.78891 -88.19084,196.97975 -196.97975,196.97975 -108.788912,0 -196.9797505,-88.19084 -196.9797505,-196.97975 0,-108.788917 88.1908385,-196.9797557 196.9797505,-196.9797557 108.78891,0 196.97975,88.1908387 196.97975,196.9797557 z"
        transform="matrix(0.9,0,0,0.9,20.026274,676.90684)" />
-    <text
-       xml:space="preserve"
-       style="font-size:280.92224121px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:UnBatang;-inkscape-font-specification:UnBatang"
-       x="135.3831"
-       y="945.83246"
-       id="text3865"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3867"
-         x="135.3831"
-         y="945.83246">5</tspan></text>
     <g
        id="g3862"
        transform="matrix(1.0427604,0,0,1.0427604,-8.2607409,-39.43956)"
